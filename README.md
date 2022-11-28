@@ -113,7 +113,7 @@ https://www.youtube.com/watch?v=6XfvBb2L01Q&ab_channel=SocialMediaExaminer
 https://www.youtube.com/watch?v=I-EIVlHvHRM&ab_channel=WIRED
 
 ## Website Visuals (Mockup)
-[Website](assets/img/website-page-1.png)  
+![Website](assets/img/website-page-1.png)  
 
 [Website](assets/img/website-page-2.png)
 
