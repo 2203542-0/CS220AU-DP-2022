@@ -47,11 +47,68 @@ How to use this GitHub repository as a template for your submission, including h
 - [ ]  Need to start Buildding Website and experimenting with Github
 
 ## Website Brainstorming
-
+ The website will be a place where anyone who wants to learn about AI and be updated with the most intersting News about AI and Social Media. The site will have good visuals and a list of updated Videos in order to learrn and be updated on the latest Trend. The page will allso have mini blogs about certian topics about AI and my personal opnions and thoughts would be put in the blog.
+ 
 ## Website Layout
 
-## Website Content
+# Website Pages
 
+1. HomePage (About Website )
+2. About AI
+3. AI Trends (Video and News Articles)
+4. AI blogs
+
+Homepage 
+ Photo’Ai related- and a small text box- With Intro https://images.app.goo.gl/itGnf2Xs7hSRGprD6 Small Section Explaining what the page is about 
+Then a Section Redirecting to AI VIDEO page
+
+# Page 1- Design Of Homepage 
+ 
+Photo- 
+Text- Artificial Intillegience and Social Media
+
+Section 1- 
+
+Photo on the left side
+
+
+Text- Welcome to the Webpage about everything related to artificial intelligence and social media. You can find here videos and News articles related to social media and ai and my personal blog on AI and Social Media impacts.
+
+Section 2
+
+Select what youre looking for 
+
+
+AI Trends (Button)
+Learn about AI (button)
+AI Blog (button)
+
+#  Page 2
+AI Learn
+Information and Pictures about AI neatly presented
+
+# Page 3
+AI Trends 
+ Multiple column with Videos and a small description
+ Multiple column with nEWS and a small description
+
+# Page 4
+AI blog 
+Multiple column with blogs when expanded personal blog will open
+
+
+## Website Content
+https://images.app.goo.gl/3uismQ29gpp7UAqD9
+https://images.app.goo.gl/dK4mn3Cs9TbKoZhe9
+https://images.app.goo.gl/EkQTeJYNZE2VFaJM7
+https://images.app.goo.gl/M7d344Mp4U3ND32UA
+https://images.app.goo.gl/FAFTG7d4FsY7jHVF9
+https://images.app.goo.gl/XeRQ3mgL6fHGLjN5A
+https://www.youtube.com/watch?v=ad79nYk2keg&ab_channel=Simplilearn
+https://www.youtube.com/watch?v=uh5LCXOBmSI&ab_channel=Simplilearn
+https://www.youtube.com/watch?v=JMLsHI8aV0g&ab_channel=WallStreetJournal
+https://www.youtube.com/watch?v=6XfvBb2L01Q&ab_channel=SocialMediaExaminer
+https://www.youtube.com/watch?v=I-EIVlHvHRM&ab_channel=WIRED
 
 ## Website Visuals (Mockup)
 
