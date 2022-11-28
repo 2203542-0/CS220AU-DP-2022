@@ -51,7 +51,7 @@ How to use this GitHub repository as a template for your submission, including h
  
 ## Website Layout
 
-# Website Pages
+### Pages
 
 1. HomePage (About Website )
 2. About AI
