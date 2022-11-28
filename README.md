@@ -104,10 +104,15 @@ https://images.app.goo.gl/EkQTeJYNZE2VFaJM7
 https://images.app.goo.gl/M7d344Mp4U3ND32UA
 https://images.app.goo.gl/FAFTG7d4FsY7jHVF9
 https://images.app.goo.gl/XeRQ3mgL6fHGLjN5A
+
 https://www.youtube.com/watch?v=ad79nYk2keg&ab_channel=Simplilearn
+
 https://www.youtube.com/watch?v=uh5LCXOBmSI&ab_channel=Simplilearn
+
 https://www.youtube.com/watch?v=JMLsHI8aV0g&ab_channel=WallStreetJournal
+
 https://www.youtube.com/watch?v=6XfvBb2L01Q&ab_channel=SocialMediaExaminer
+
 https://www.youtube.com/watch?v=I-EIVlHvHRM&ab_channel=WIRED
 
 ## Website Visuals (Mockup)
