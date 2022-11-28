@@ -29,7 +29,7 @@ How to use this GitHub repository as a template for your submission, including h
 - [x] Researching and Understanding about AI
 - [x] Reading and Watching about AI
 ### in week 4
-- [ ] Start Brainstorming and Planning my Website
+- [x] Start Brainstorming and Planning my Website
 
 ### in week 5
 - [x] Create Layout of Website 
@@ -44,7 +44,7 @@ How to use this GitHub repository as a template for your submission, including h
 ## TODO
 
 ### in week 9
-- [ ]  Need to start Buildding Website and experimenting with Github
+- [ ]  Need to start Building Website and experimenting with Github
 
 ## Website Brainstorming
  The website will be a place where anyone who wants to learn about AI and be updated with the most intersting News about AI and Social Media. The site will have good visuals and a list of updated Videos in order to learrn and be updated on the latest Trend. The page will allso have mini blogs about certian topics about AI and my personal opnions and thoughts would be put in the blog.
