@@ -25,16 +25,33 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Log
+### in week 3
+- [ ] Researching and Understanding about AI
+- [ ] Reading and Watching about AI
+### in week 4
+- [ ] Start Brainstorming and Planning my Website
 
+### in week 5
+- [ ] Create Layout of Website 
+- [ ] Star Looking for Content (That can go on my Website)
+
+### in week 6
+- [ ] Finalize list of Content that would go on the Website 
+### in week 7
+- [ ]  Figuring out Visuals and Design of the Page
+- [ ]  Creating MiniMockups
 
 ## TODO
-### in week 3
-### in week 4
-### in week 5
-### in week 6
-### in week 7
-### in week 8
+
+### in week 9
+- [ ]  Need to start Buildding Website and experimenting with Github
+
+## Website Brainstorming
 
 ## Website Layout
 
+## Website Content
+
+
+## Website Visuals (Mockup)
 
