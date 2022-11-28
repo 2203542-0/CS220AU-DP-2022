@@ -58,19 +58,17 @@ How to use this GitHub repository as a template for your submission, including h
 3. AI Trends (Video and News Articles)
 4. AI blogs
 
-Homepage 
- Photo’Ai related- and a small text box- With Intro https://images.app.goo.gl/itGnf2Xs7hSRGprD6 Small Section Explaining what the page is about 
-Then a Section Redirecting to AI VIDEO page
+
 
 # Page 1- Design Of Homepage 
- 
-Photo- 
-Text- Artificial Intillegience and Social Media
+ Homepage 
+ Photo’Ai related- and a small text box- With Intro https://images.app.goo.gl/itGnf2Xs7hSRGprD6 Small Section Explaining what the page is about 
+
+
 
 Section 1- 
 
 Photo on the left side
-
 
 Text- Welcome to the Webpage about everything related to artificial intelligence and social media. You can find here videos and News articles related to social media and ai and my personal blog on AI and Social Media impacts.
 
