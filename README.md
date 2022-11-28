@@ -60,10 +60,9 @@ How to use this GitHub repository as a template for your submission, including h
 
 
 
-# Page 1- Design Of Homepage 
+### Page 1- Design Of Homepage 
  Homepage 
  Photo’Ai related- and a small text box- With Intro https://images.app.goo.gl/itGnf2Xs7hSRGprD6 Small Section Explaining what the page is about 
-
 
 
 Section 1- 
@@ -81,16 +80,16 @@ AI Trends (Button)
 Learn about AI (button)
 AI Blog (button)
 
-#  Page 2
+###  Page 2
 AI Learn
 Information and Pictures about AI neatly presented
 
-# Page 3
+### Page 3
 AI Trends 
  Multiple column with Videos and a small description
  Multiple column with nEWS and a small description
 
-# Page 4
+### Page 4
 AI blog 
 Multiple column with blogs when expanded personal blog will open
 
