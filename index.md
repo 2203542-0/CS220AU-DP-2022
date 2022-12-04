@@ -1,4 +1,5 @@
 # Title
+[This](index2.md) is an internal link to my main website page- (for the current draft version)
 
 Use [Markdown language](https://guides.github.com/features/mastering-markdown/) to add information to your website. 
 
