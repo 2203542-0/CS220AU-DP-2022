@@ -8,13 +8,13 @@
 
 ## Hyperlinks
 
-[This](ailearn.md)- What is Artifical Intelligeince
+[Learn about AI](ailearn.md)- What is Artifical Intelligeince?
 
-[This](aitrends.md)- learn about the latest trends in AI
+[AI Trends](aitrends.md)- learn about the latest trends in AI
 
-[This](airisks.md)- Altough AI is changing the world we are living in- its important to understantd the risks
+[Risks of AI](airisks.md)- Altough AI is changing the world we are living in- its important to understantd the risks
 
-[This](aiblogs.md)- My personal opinion on AI and its impacts on Social Media
+[The AI Blog](aiblogs.md)- My personal opinion on AI and its impacts on Social Media
 
 
 
