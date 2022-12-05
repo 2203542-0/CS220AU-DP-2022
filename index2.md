@@ -6,7 +6,6 @@
 
 ### You can find here videos and News articles related to social media and ai and my personal blog on AI and its impact on Social Media.
 
-## Hyperlinks
 
 [Learn about AI](ailearn.md)- What is Artifical Intelligeince?
 
