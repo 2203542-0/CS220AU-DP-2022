@@ -144,7 +144,7 @@ AI Blogs- Get Updated witht the latest trends and news on artificial intelligenc
 
 Section 3
 
-Ai Risks- Cyber crime 
+Ai Risks- Hacking 
 
 ### Page 2
 AI Blogs
@@ -152,4 +152,4 @@ AI Blogs
 
 ### Page 3
 AI Risks
-Taking about the General Risks of AI- Cyber crime
+Taking about the General Risks of AI- Hacking
