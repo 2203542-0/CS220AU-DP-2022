@@ -4,7 +4,7 @@
 
 ## Welcome to the Webpage about everything related to AI (Artificial Intelligence) and social media including its benefits and risk and my opnions on it
 
-## What is an Artificial Intelligeince?
+## What is Artificial Intelligeince?
 the theory and development of computer systems able to perform tasks that normally require human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages.
 
 ## What are the current main stream uses of AI?
