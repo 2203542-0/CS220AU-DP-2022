@@ -14,7 +14,7 @@ AI applications include advanced web search engines (e.g., Google), recommendati
 ##  [The AI Blog](aiblogs.md) -find out more about whats happening in the world of AI.
 
 ![](assets/img/AI-3.png)
-## [Risks of AI](airisks.md)- Altough AI is changing the world we are living in- its important to understantd the risks it has on social media ##
+## [Risks of AI](airisks.md)- Altough AI is changing the world we are living in- its important to understantd the risks it can impose ##
 
 
 
