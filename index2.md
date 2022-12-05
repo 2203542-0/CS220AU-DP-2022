@@ -10,7 +10,7 @@ the theory and development of computer systems able to perform tasks that normal
 ## What are the current main stream uses of AI?
 AI applications include advanced web search engines (e.g., Google), recommendation systems (used by YouTube, Amazon and Netflix), understanding human speech (such as Siri and Alexa), self-driving cars (e.g., Tesla), automated decision-making and competing at the highest level in strategic game systems (such as chess and Go).
 
-![](assets/img/AI-2.png)
+![](assets/img/AI-2.jpg)
 ##  [The AI Blog](aiblogs.md) -find out more about whats happening in the world of AI.
 
 ![](assets/img/AI-3.png)
