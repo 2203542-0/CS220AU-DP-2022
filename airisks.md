@@ -30,7 +30,7 @@ AI is a particularly effective tool for cybercriminals because of its ability to
 9. ML-enabled penetration testing tools.
 
 
-According to Malwarebytes, there has been a recent surge in cyberattacks where hackers use AI and ML to hide behind an organization's website or infrastructure. So, to remain secure and stay in business, companies must fight fire with fire and adopt AI & ML to keep their networks safe. (Also read: Is artificial intelligence a tool or a threat to cybersecurity?
+### According to Malwarebytes, there has been a recent surge in cyberattacks where hackers use AI and ML to hide behind an organization's website or infrastructure. So, to remain secure and stay in business, companies must fight fire with fire and adopt AI & ML to keep their networks safe. (Also read: Is artificial intelligence a tool or a threat to cybersecurity?
 
 
 
