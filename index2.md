@@ -1,26 +1,25 @@
-# Title
+# AI and Social Media
 
-Use [Markdown language](https://guides.github.com/features/mastering-markdown/) to add information to your website. 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=LhZMr3jH7kI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Welcome to the Webpage about everything related to AI (Artificial Intelligence) and social media including its benefits and risk. 
+
+### You can find here videos and News articles related to social media and ai and my personal blog on AI and its impact on Social Media.
 
 ## Hyperlinks
-[This](dp-checklist.md) is an internal link to another page on your site. 
 
-And [this](https://duckduckgo.com/?q=existential+risks&t=brave&ia=web&iai=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdzlxU3g7hUY) is an external link to web page on another website. 
+[This](ailearn.md)- What is Artifical Intelligeince
 
-## Embedding images
-Below you see an example of embedding an image that is found in this repository's assets/img folder: 
+[This](aitrends.md)- learn about the latest trends in AI
 
-![Plain VR map](assets/img/vr-map-plain.svg)
+[This](airisks.md)- Altough AI is changing the world we are living in- its important to understantd the risks
 
-Below you see an example of embedding an image that is found in another repository:
+[This](aiblogs.md)- My personal opinion on AI and its impacts on Social Media
 
-![](https://khofstadter.com/assets/img/2005-04-01-khofstadter-painting-chien.jpg). 
+![Header](assets/AI-Social-Media.png)
 
-## Embedding video players
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lfPJ7Tz4JGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## More examples
 
-Make sure you check out the [Markdown language](https://guides.github.com/features/mastering-markdown/) guide. 
+
 
