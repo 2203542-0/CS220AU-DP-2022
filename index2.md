@@ -2,18 +2,21 @@
 
 ![Header](assets/img/AI-Social-Media.png)
 
-## Welcome to the Webpage about everything related to AI (Artificial Intelligence) and social media including its benefits and risk. 
+## Welcome to the Webpage about everything related to AI (Artificial Intelligence) and social media including its benefits and risk and my opnions on it
 
-### You can find here videos and News articles related to social media and ai and my personal blog on AI and its impact on Social Media.
+## What is an Artificial Intelligeince?
+### the theory and development of computer systems able to perform tasks that normally require human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages.
+
+## What are the current main stream uses of AI?
+### AI applications include advanced web search engines (e.g., Google), recommendation systems (used by YouTube, Amazon and Netflix), understanding human speech (such as Siri and Alexa), self-driving cars (e.g., Tesla), automated decision-making and competing at the highest level in strategic game systems (such as chess and Go).
 
 
-[Learn about AI](ailearn.md)- What is Artifical Intelligeince?
+# The AI Blog](aiblogs.md) -find out more about whats happening in the world of AI.
 
-[AI Trends](aitrends.md)- learn about the latest trends in AI
 
-[Risks of AI](airisks.md)- Altough AI is changing the world we are living in- its important to understantd the risks
+# [Risks of AI](airisks.md)- Altough AI is changing the world we are living in- its important to understantd the risks it has on social media ##
 
-[The AI Blog](aiblogs.md)- My personal opinion on AI and its impacts on Social Media
+
 
 
 
