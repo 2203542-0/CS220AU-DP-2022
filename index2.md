@@ -1,6 +1,6 @@
 # AI and Social Media
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LhZMr3jH7kI" title= "YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; allowfullscreen"> </iframe>
+![Header](assets/img/AI-Social-Media.png)
 
 ## Welcome to the Webpage about everything related to AI (Artificial Intelligence) and social media including its benefits and risk. 
 
@@ -16,7 +16,7 @@
 
 [This](aiblogs.md)- My personal opinion on AI and its impacts on Social Media
 
-![Header](assets/img/AI-Social-Media.png)
+
 
 
 
