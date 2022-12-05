@@ -41,10 +41,14 @@ How to use this GitHub repository as a template for your submission, including h
 - [x]  Figuring out Visuals and Design of the Page
 - [x]  Creating MiniMockups
 
+### in week 9
+- [x]  Need to start Building Website and experimenting with Github
+- [x] Redesigning Layout and adding Content  
 ## TODO
 
-### in week 9
-- [ ]  Need to start Building Website and experimenting with Github
+### in week 10
+- [ ] Finalizng more Content of each individual page 
+- [ ] Adding pages into Github
 
 ## Website Brainstorming
  The website will be a place where anyone who wants to learn about AI and be updated with the most intersting News about AI and Social Media. The site will have good visuals and a list of updated Videos in order to learrn and be updated on the latest Trend. The page will allso have mini blogs about certian topics about AI and my personal opnions and thoughts would be put in the blog.
@@ -120,3 +124,32 @@ https://www.youtube.com/watch?v=I-EIVlHvHRM&ab_channel=WIRED
 
 ![Website](assets/img/website-page-2.png)
 
+
+# New Website Layout
+
+### Page 1- Design Of Homepage 
+ Homepage 
+ Photo’Ai related- and a small text box- With Intro https://images.app.goo.gl/itGnf2Xs7hSRGprD6 Small Section Explaining what the page is about 
+
+
+Section 1- 
+
+Photo on the left side
+Explaining about Artificial intelligence
+
+
+Section 2
+AI Blogs- Get Updated witht the latest trends and news on artificial intelligence
+
+
+Section 3
+
+Ai Risks- 
+
+### Page 2
+AI Blogs
+ Multiple column with Videos and blogs with a small description
+
+### Page 3
+AI Risks
+Taking about the General Risk of AI
