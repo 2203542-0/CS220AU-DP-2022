@@ -2,7 +2,7 @@
 
 ![Header](assets/img/AI-Social-Media.png)
 
-## Welcome to the Webpage about everything related to AI (Artificial Intelligence) and social media including its benefits and risk and my opnions on it
+## Welcome to the Webpage about everything related to AI (Artificial Intelligence) and social media including its benefits and risk and my opinions on it
 
 ## What is Artificial Intelligence?
 the theory and development of computer systems able to perform tasks that normally require human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages.
