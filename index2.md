@@ -1,8 +1,10 @@
-# AI and Social Media
+# Learn about AI
+
+## Welcome to the Webpage about everything related to AI (Artificial Intelligence) and social media
+
+This website will help ypu learn about Artificial intelligience and its impact on social media, you can read through my personal blog on ai and also get information and the potential riks of Artifical Intelligence
 
 ![Header](assets/img/AI-Social-Media.png)
-
-## Welcome to the Webpage about everything related to AI (Artificial Intelligence) and social media including its benefits and risk and my opinions on it
 
 ## What is Artificial Intelligence?
 the theory and development of computer systems able to perform tasks that normally require human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages.
