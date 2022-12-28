@@ -1,7 +1,7 @@
 
 ## AI-Learn
 
-Welcome to AI-learn the webbpage about artificial intelligience and its impact on our world.  AI-learn will keep uou updated weekely about by exploring ai and its benefits and risks on different industys via an informative blog filled with vidoes and scholary sources. 
+Welcome to AI-learn the webpage about artificial intelligience and its impact on our world. AI-learn will keep you constantly updated about the latest trends in AI via an informative blog filled with vidoes and scholary sources. 
 
 ![Header](assets/img/AI-Social-Media.png)
 
