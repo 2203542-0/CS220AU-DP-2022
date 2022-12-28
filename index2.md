@@ -1,7 +1,7 @@
 
 ## AI-Learn
 
-Welcome to AI-learn the webbpage about artificial intelligience and its impact on our world.  AI-learn will keep uou updated weekely about by exploring ai and its benefits and risks on different industys via an informativee blog filled with vidoes and scholary sources. 
+Welcome to AI-learn the webbpage about artificial intelligience and its impact on our world.  AI-learn will keep uou updated weekely about by exploring ai and its benefits and risks on different industys via an informative blog filled with vidoes and scholary sources. 
 
 ![Header](assets/img/AI-Social-Media.png)
 
@@ -12,7 +12,7 @@ the theory and development of computer systems able to perform tasks that normal
 AI applications include advanced web search engines (e.g., Google), recommendation systems (used by YouTube, Amazon and Netflix), understanding human speech (such as Siri and Alexa), self-driving cars (e.g., Tesla), automated decision-making and competing at the highest level in strategic game systems (such as chess and Go).
 
 ![](assets/img/AI-2.jpg)
-# [The AI Blog] - Explore the world of AI
+# Explore the world of AI
 
 ## 1.AI and its impact on Education
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JMLsHI8aV0g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
