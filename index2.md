@@ -21,7 +21,7 @@ AI applications include advanced web search engines (e.g., Google), recommendati
 
 ## [3.AI and Art](AIart.md)
 
-## [4.AI and its riks on Cybersecurity](airisks.md)
+## [4.AI and its riks on Cybersecurity](airisks.md) 
 
 
 
