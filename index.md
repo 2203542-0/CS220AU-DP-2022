@@ -1,28 +1,31 @@
-# Title
-[This](index2.md) is an internal link to my main website page- (for the current draft version)
+## AI-Learn
 
-Use [Markdown language](https://guides.github.com/features/mastering-markdown/) to add information to your website. 
+Welcome to AI-learn the webpage about artificial intelligience and its impact on our world. AI-learn will keep you constantly updated about the latest trends in AI via an informative blog filled with videos and scholary sources. 
 
-## Hyperlinks
-[This](dp-checklist.md) is an internal link to another page on your site. 
+![Header](assets/img/AI-Social-Media.png)
 
-And [this](https://duckduckgo.com/?q=existential+risks&t=brave&ia=web&iai=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdzlxU3g7hUY) is an external link to web page on another website. 
+## What is Artificial Intelligence?
+The theory and development of computer systems able to perform tasks that normally require human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages.
 
-## Embedding images
-Below you see an example of embedding an image that is found in this repository's assets/img folder: 
+## What are the current main stream uses of AI?
+AI applications include advanced web search engines (e.g., Google), recommendation systems (used by YouTube, Amazon and Netflix), understanding human speech (such as Siri and Alexa), self-driving cars (e.g., Tesla), automated decision-making and competing at the highest level in strategic game systems (such as chess and Go).
 
-![Plain VR map](assets/img/vr-map-plain.svg)
+![](assets/img/AI-2.jpg)
 
-Below you see an example of embedding an image that is found in another repository:
+# Explore the world of AI
 
-![](https://khofstadter.com/assets/img/2005-04-01-khofstadter-painting-chien.jpg). 
+## [1.AI and its impact on Education](AIeducation.md)
 
-## Embedding video players
+## [2.Artificial Intelligence and Marketing](AImarketing.md)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lfPJ7Tz4JGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## [3.AI and Art](AIart.md)
 
-## More examples
+## [4.AI and its riks on Cybersecurity](airisks.md) 
 
-Make sure you check out the [Markdown language](https://guides.github.com/features/mastering-markdown/) guide. 
+
+
+
+
+
 
 
