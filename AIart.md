@@ -9,3 +9,5 @@ When the machine sees multiple photos of the Statue of Liberty taken from slight
 Based on the principal of machine intelligence and data driven language Refik Anadol creates abstarct and dream like environments as a form of art that has never been seen before. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I-EIVlHvHRM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Zhang, C., & Lu, Y. (2021). Study on artificial intelligence: The state of the art and future prospects. Journal of Industrial Information Integration, 23, 100224
