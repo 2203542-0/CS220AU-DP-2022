@@ -48,7 +48,7 @@ How to use this GitHub repository as a template for your submission, including h
 
 ### in week 10
 - [x] Finalizng more Content of each individual page 
-- [x ] Adding pages into Github
+- [x] Adding pages into Github
 
 ## Website Brainstorming
  The website will be a place where anyone who wants to learn about AI and be updated with the most intersting News about AI and Social Media. The site will have good visuals and a list of updated Videos in order to learrn and be updated on the latest Trend. The page will allso have mini blogs about certian topics about AI and my personal opnions and thoughts would be put in the blog.
