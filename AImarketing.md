@@ -11,5 +11,5 @@ One of the biggest use cases of AI in marketing its assistance in data analysis,
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6XfvBb2L01Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Ma, L., & Sun, B. (2020). Machine learning and AI in marketing–Connecting computing power to human insights. International Journal of Research in Marketing, 37(3), 481-504.
+Ma, L., & Sun, B. (2020). Machine learning and AI in marketing–Connecting computing power to human insights. International Journal of Research in Marketing, 37(3), 481-504. https://link.springer.com/article/10.1007/s00146-017-0693-8
 
