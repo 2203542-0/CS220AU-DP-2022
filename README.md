@@ -45,7 +45,7 @@ The portfolio contains:
 ## TODO
 
 ### in week 10
-- [x] Finalizng more Content of each individual page 
+- [x] Finalizing more Content of each individual page 
 - [x] Adding pages into Github
 
 ## Website Brainstorming
