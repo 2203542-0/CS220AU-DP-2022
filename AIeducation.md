@@ -10,7 +10,7 @@ Despite the potential for false readings, the teachers claimed that the headband
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JMLsHI8aV0g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-Guilherme, A. (2019). AI and education: the importance of teacher and student relations. AI & society, 34(1), 47-54.Guilherme, A. (2019). AI and education: the importance of teacher and student relations. AI & society, 34(1), 47-54.
+Guilherme, A. (2019). AI and education: the importance of teacher and student relations. AI & society, 34(1), 47-54.Guilherme, A. (2019). AI and education: the importance of teacher and student relations. AI & society, 34(1), 47-54. https://link.springer.com/article/10.1007/s00146-017-0693-8
 
 
 
