@@ -10,4 +10,4 @@ Based on the principal of machine intelligence and data driven language Refik An
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I-EIVlHvHRM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Zhang, C., & Lu, Y. (2021). Study on artificial intelligence: The state of the art and future prospects. Journal of Industrial Information Integration, 23, 100224
+Zhang, C., & Lu, Y. (2021). Study on artificial intelligence: The state of the art and future prospects. Journal of Industrial Information Integration, 23, 100224 https://www.sciencedirect.com/science/article/abs/pii/S2452414X21000248
